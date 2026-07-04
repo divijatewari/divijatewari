@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I'm a sophomore at **Indira Gandhi Delhi Technical University for Women (IGDTUW)** exploring different areas of computer science including **AI applications, data analysis, and full-stack development**.
+I'm a pre-final year student at **Indira Gandhi Delhi Technical University for Women (IGDTUW)** exploring different areas of computer science including **AI applications, data analysis, and full-stack development**.
 
 I enjoy building projects that solve practical problems and improve user experiences. I'm especially interested in **AI-driven systems, data insights, and interactive web platforms**.
 
